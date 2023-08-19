@@ -1,0 +1,19 @@
+/* ListTask.css */
+.list-container {
+    margin-top: 20px;
+  }
+  
+  .filter-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-select {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  /* Other ListTask-specific styles can be added here */
+  

@@ -1,0 +1,23 @@
+/* Task.css */
+.task {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #E2DCDE;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .task.done {
+    background-color: #CEB1BE;
+  }
+  
+  .task input[type='checkbox'] {
+    margin-right: 10px;
+  }
+  
+ 
+  /* Other Task-specific styles can be added here */
+  
